@@ -9,6 +9,15 @@ The purpose of this repository is to showcase the usage of the the [Giotto-tda](
 
 ## Getting started
 
+Clone this repository on your local machine by running
+```
+git clone https://github.com/ulupo/giotto-tda_demo_POSTECH_MINDS.git
+```
+and move inside the root folder by running
+```
+cd giotto-tda_demo_POSTECH_MINDS
+```
+
 ### If you use ``conda``
 
 Spin up a ``conda`` virtual environment, activate it and install the required libraries:
@@ -22,7 +31,7 @@ python -m pip install -U -r requirements.txt
 
 ### If you use Python's ``venv``
 
-Spin up and activate a Python 3 virtual environment with the in-built ``venv`` as explained in [the official Python API reference](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment). Then, from that environment, run
+Create and activate a Python 3 virtual environment with the in-built ``venv`` as explained in [the official Python API reference](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment). Then, from that environment, run
 ```
 python -m pip install -U -r requirements.txt
 ```
