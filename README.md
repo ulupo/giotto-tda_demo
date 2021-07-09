@@ -46,5 +46,5 @@ Enjoy!
 In order to run the notebook, the following python packages are required:
 
 - jupyter
-- giotto-tda>=0.5.0
+- giotto-tda>=0.5.1
 - pandas>=0.25.1
