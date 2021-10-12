@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg)
 
-# Giotto-tda Jupyter demo, POSTECH MINDS workshop on TDA & ML (9 July 2021)
+# Giotto-tda Jupyter demo
 
 ## What is it?
 
